@@ -1,5 +1,7 @@
 # Welcome to ELECTRIC_LOVE_POTATO.js!
 
+[Click here](http://potatoware.alienmelon.com/potatowarejs/) for a live demo!
+
 Run this javascript based potatoware to add a fledgling Electric Love Potato to your website. Electric Love Potatoes are the ideal virtual assistant. With them enabled on your website, your visitors will no longer feel lost or lonely!
 
 Features include:
