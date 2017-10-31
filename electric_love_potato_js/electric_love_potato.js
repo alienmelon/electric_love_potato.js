@@ -290,7 +290,7 @@ function init_lovepotato(str){
 	//build messy potato salad (potato salad is messy by nature)
 	_potatosalad("_potato", null, null, null, 0, 0);
 	_potatosalad("_potato_background", "img", str_image_path+"IMG_ELP_WINDOW_01.png", "_potato", 0, 0);
-	_potatosalad("_potato_title", "text", str, "_potato", 10, 198);
+	_potatosalad("_potato_title", "text", str, "_potato", 10, 202);
 	_potatosalad("_potato_dialogue", "text", "", "_potato", 7, 23);
 	//idle and talking animations
 	_potatosalad("_potato_idle", "img", str_image_path+"IMG_"+str+"_IDLE.gif", "_potato", 15, 85);
